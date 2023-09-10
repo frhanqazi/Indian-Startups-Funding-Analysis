@@ -5,12 +5,9 @@ Interested in the Indian startup ecosystem just like me? Wanted to know what typ
 This dataset is a chance to explore the Indian start up scene. Deep dive into funding data and derive insights into the future!
 
 ### Content
-This dataset has funding information of the Indian startups from January 2015 to August 2017. It includes columns with the date funded, the city the startup is based out of, the names of the funders, and the amount invested (in USD).
+This dataset has funding information of the Indian startups from January 2015 to October 2020. It includes columns with the date funded, the city the startup is based out of, the names of the funders, and the amount invested (in USD).
 
 For more information on the values of individual fields, check out the Column Metadata.
-
-### Acknowledgements
-Thanks to trak.in who are generous enough to share the data publicly for free.
 
 ### Inspiration
 Possible questions which could be answered are:
